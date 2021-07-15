@@ -368,6 +368,11 @@ a:hover {
     font-style: italic;
 }
 
+.center-block {
+    width: 200px;
+    height: 200px;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
